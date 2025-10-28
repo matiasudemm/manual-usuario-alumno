@@ -2,11 +2,11 @@ En la pestaña Examen, el alumno visualiza la lista de evaluaciones activas para
 
 Cada examen se muestra en una tarjeta con:  
 
-•	**Nombre del examen**  
+-	**Nombre del examen**  
 
-•	**Código único de idntificación**  
+-	**Código único de idntificación**  
 
-•	**Estado de intentos registrados**  
+-	**Estado de intentos registrados**  
   
   
 **Botones de acción**  
