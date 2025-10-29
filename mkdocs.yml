@@ -51,5 +51,6 @@ nav:
     - Revisión de intentos anteriores: revison.md
   - Recomendaciones generales: recomendaciones.md
   - Cierre de sesión: cierre.md
+  - Acerca de Smartech: acerca.md
 
 dev_addr: 127.0.0.1:8001
